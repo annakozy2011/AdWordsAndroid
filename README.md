@@ -14,7 +14,7 @@ There is an [existing module](https://github.com/jkotchoff/adwords_conversion_tr
 
 Add it to your tiapp.xml:
 
-`<module platform="android">co.uk.devpulse.tiadwords</module>`
+`<module platform="android">me.direcciona.adwords.android</module>`
     
 
 In your controller, call it like this:
