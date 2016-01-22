@@ -15,4 +15,4 @@ name: adwordsandroid
 moduleid: me.direcciona.adwords.android
 guid: d952f8ab-e020-4edf-9caa-934487cca2e6
 platform: android
-minsdk: 5.1.2.GA
+minsdk: 5.0.2.GA
