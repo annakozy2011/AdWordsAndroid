@@ -19,7 +19,7 @@ Add it to your tiapp.xml:
 
 In your controller, call it like this:
 
-    var TiAdwords = require("co.uk.devpulse.tiadwords");
+    var TiAdwords = require("me.direcciona.adwords.android");
     TiAdwords.sendRequest({
         conversionId:"conversionId here",
         label:"label here",
